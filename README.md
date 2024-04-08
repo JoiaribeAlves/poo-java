@@ -1,6 +1,4 @@
-<div align="center">
-  # Curso básico de POO em Java
-</div>
+# Curso básico de POO em Java
 
 Este projeto foi desenvolvido durante o curso de POO Java, promovido pelo [Curso em Vídeo](https://www.cursoemvideo.com).
 
