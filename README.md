@@ -1,5 +1,7 @@
-<h1 align="center">Curso básico de POO em Java</h1>
+<div align="center">
+  # Curso básico de POO em Java
+</div>
 
-<p>Este projeto foi desenvolvido durante o curso de POO Java, promovido pelo [Curso em Vídeo](https://www.cursoemvideo.com).</p>
+Este projeto foi desenvolvido durante o curso de POO Java, promovido pelo [Curso em Vídeo](https://www.cursoemvideo.com).
 
-<p>Nestas aulas foram aplicados os principais conceitos de programação orientada a objetos, como Encapsulamento, Herança e Polimorfismo, Classes e Métodos abtratos e Interfaces.</p>
+Nestas aulas foram aplicados os principais conceitos de programação orientada a objetos, como Encapsulamento, Herança e Polimorfismo, Classes e Métodos abtratos e Interfaces.
